@@ -1,3 +1,4 @@
 Stall 1: Spice Route - Biryani, Kebabs
 Stall 2: Sweet Tooth - Gulab Jamun, Jalebi
 Stall 3: Street Bites - Pav Bhaji, Vada Pav
+Stall 4: Juice Junction - Fresh Juices
